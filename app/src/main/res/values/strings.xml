@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMailLauncher</string>
+    <string name="title_text">タイトル</string>
+    <string name="mailLauncher_text">メールランチャー</string>
+    <string name="memo_text">本文</string>
+    <string name="send">送信</string>
+</resources>
